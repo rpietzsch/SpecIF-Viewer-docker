@@ -14,8 +14,8 @@ Simple docker image for running [https://github.com/GfSE/SpecIF-Viewer](SpecIF-V
 
 After running the image, point your Browser to:
 
-- the SpecIF Viewer [http://localhost:8080/view.html](http://localhost:8080/view.html).
-- the SpecIF Editor [http://localhost:8080/edit.html](http://localhost:8080/edit.html).
+- the SpecIF Viewer [http://localhost:8080/view.html](http://localhost:8080/view.html)
+- the SpecIF Editor [http://localhost:8080/edit.html](http://localhost:8080/edit.html)
 
 Or start with an example from [https://specif.de/en/#examples](https://specif.de/en/#examples), the links below will import the example into your local SpecIF-Viewer container:
 
