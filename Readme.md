@@ -19,6 +19,6 @@ After running the image, point your Browser to:
 
 Or start with an example from [https://specif.de/en/#examples](https://specif.de/en/#examples), the links below will import the example into your local SpecIF-Viewer container:
 
-- Vocabulary: http://localhost:8080/view.html#import=https://specif.de/examples/Vocabulary.specifz
-- Specification of a mechatronic device, a dimmer: http://localhost:8080/view.html#import=https://specif.de/examples/Dimmer.specifz
-- Process- and IT-Documentation: http://localhost:8080/view.html#import=https://specif.de/examples/IT-Documentation.specifz
+- Vocabulary: [http://localhost:8080/view.html#import=https://specif.de/examples/Vocabulary.specifz](view) / [http://localhost:8080/edit.html#import=https://specif.de/examples/Vocabulary.specifz](edit)
+- Specification of a mechatronic device, a dimmer: [http://localhost:8080/view.html#import=https://specif.de/examples/Dimmer.specifz](view) / [http://localhost:8080/edit.html#import=https://specif.de/examples/Dimmer.specifz](edit)
+- Process- and IT-Documentation: [http://localhost:8080/view.html#import=https://specif.de/examples/IT-Documentation.specifz](view) / [http://localhost:8080/edit.html#import=https://specif.de/examples/IT-Documentation.specifz](edit)
