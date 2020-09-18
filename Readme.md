@@ -1,6 +1,6 @@
 # A docker image for SpecIF Viewer
 
-Simple docker image for running [https://github.com/GfSE/SpecIF-Viewer](SpecIF-Viewer). Based on [https://hub.docker.com/_/caddy](caddy).
+Simple docker image for running [SpecIF-Viewer](https://github.com/GfSE/SpecIF-Viewer). Based on [caddy](https://hub.docker.com/_/caddy).
 
 ## Build
 
@@ -19,6 +19,6 @@ After running the image, point your Browser to:
 
 Or start with an example from [https://specif.de/en/#examples](https://specif.de/en/#examples), the links below will import the example into your local SpecIF-Viewer container:
 
-- Vocabulary: [http://localhost:8080/view.html#import=https://specif.de/examples/Vocabulary.specifz](view) / [http://localhost:8080/edit.html#import=https://specif.de/examples/Vocabulary.specifz](edit)
-- Specification of a mechatronic device, a dimmer: [http://localhost:8080/view.html#import=https://specif.de/examples/Dimmer.specifz](view) / [http://localhost:8080/edit.html#import=https://specif.de/examples/Dimmer.specifz](edit)
-- Process- and IT-Documentation: [http://localhost:8080/view.html#import=https://specif.de/examples/IT-Documentation.specifz](view) / [http://localhost:8080/edit.html#import=https://specif.de/examples/IT-Documentation.specifz](edit)
+- Vocabulary: [view](http://localhost:8080/view.html#import=https://specif.de/examples/Vocabulary.specifz) / [edit](http://localhost:8080/edit.html#import=https://specif.de/examples/Vocabulary.specifz)
+- Specification of a mechatronic device, a dimmer: [view](http://localhost:8080/view.html#import=https://specif.de/examples/Dimmer.specifz) / [edit](http://localhost:8080/edit.html#import=https://specif.de/examples/Dimmer.specifz)
+- Process- and IT-Documentation: [view](http://localhost:8080/view.html#import=https://specif.de/examples/IT-Documentation.specifz) / [edit](http://localhost:8080/edit.html#import=https://specif.de/examples/IT-Documentation.specifz)
